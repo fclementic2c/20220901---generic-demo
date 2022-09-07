@@ -7,3 +7,8 @@
 	path = Camille0907/mis-builder
 	url = git@github.com:Camille0907/mis-builder.git
 	branch = 15.0
+
+[submodule "OCA/mis-builder"]
+	path = OCA/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 15.0
